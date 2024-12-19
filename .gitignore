@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
 oculto/** 
-**/.oculto
+**/*.oculto
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
